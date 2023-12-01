@@ -1,0 +1,19 @@
+#This is a recommended gitignore. 
+#If there are build issues after a pull, we may have to revise in this early stage
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+[Bb]in/
+[Oo]bj/
+
+# ReSharper is a .NET coding add-in
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# Rider
+.idea/
+
+# Visual Studio Code
+.vscode/

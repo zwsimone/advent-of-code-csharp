@@ -17,3 +17,7 @@ _ReSharper*/
 
 # Visual Studio Code
 .vscode/
+
+puzzle.md
+input
+test*

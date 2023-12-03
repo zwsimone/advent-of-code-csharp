@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode", "AdventOfCode\AdventOfCode.csproj", "{623E34EC-6197-478D-A3A2-48D81D88D73A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utilities", "Utilities\Utilities.csproj", "{E0F52FF2-940B-4F20-AB4D-8264D711125C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AOC2022", "AOC2022\AOC2022.csproj", "{2405C33A-7A72-4A4A-B394-CF73515400C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AOC2023", "AOC2023\AOC2023.csproj", "{BDC2944E-CFA2-4E5B-A50B-F1D45EAC84A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{623E34EC-6197-478D-A3A2-48D81D88D73A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{623E34EC-6197-478D-A3A2-48D81D88D73A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{623E34EC-6197-478D-A3A2-48D81D88D73A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{623E34EC-6197-478D-A3A2-48D81D88D73A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0F52FF2-940B-4F20-AB4D-8264D711125C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0F52FF2-940B-4F20-AB4D-8264D711125C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0F52FF2-940B-4F20-AB4D-8264D711125C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0F52FF2-940B-4F20-AB4D-8264D711125C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2405C33A-7A72-4A4A-B394-CF73515400C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2405C33A-7A72-4A4A-B394-CF73515400C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2405C33A-7A72-4A4A-B394-CF73515400C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2405C33A-7A72-4A4A-B394-CF73515400C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDC2944E-CFA2-4E5B-A50B-F1D45EAC84A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDC2944E-CFA2-4E5B-A50B-F1D45EAC84A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDC2944E-CFA2-4E5B-A50B-F1D45EAC84A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDC2944E-CFA2-4E5B-A50B-F1D45EAC84A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+EndGlobal
